@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="HackerRank C Banner" width="250"/>
 </p>
-**HackerRank** is a technology company that offers competitive programming services where computer programmers compete by writing programs according to provided specifications. HackerRank's programming challenges can be solved in multiple programming languages, and these challenges are sorted into different computer science fields.
+HackerRank is a technology company that offers competitive programming services where computer programmers compete by writing programs according to provided specifications. HackerRank's programming challenges can be solved in multiple programming languages, and these challenges are sorted into different computer science fields.
 
 ## C Domain on HackerRank
 
